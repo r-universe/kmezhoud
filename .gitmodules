@@ -8,3 +8,8 @@
 	url = https://github.com/kmezhoud/biocancer
 	shallow = true
 	registered = true
+[submodule "canceR"]
+	path = canceR
+	url = https://github.com/kmezhoud/cancer
+	shallow = true
+	registered = true
